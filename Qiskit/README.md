@@ -1,6 +1,5 @@
-# About
-<br>
 ![Image](images/qiskit_header.png?raw=true)
+# About
 **Qiskit** is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
 
 Qiskit is made up elements that each work together to enable quantum computing. This is a simple meta-package to install the elements of Qiskit altogether.
